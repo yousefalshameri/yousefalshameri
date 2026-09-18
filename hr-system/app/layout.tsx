@@ -13,6 +13,7 @@ const nav = [
   { href: "/employees", label: "الموظفون" },
   { href: "/leaves", label: "الإجازات" },
   { href: "/attendance", label: "الحضور" },
+  { href: "/assistant", label: "المساعد الذكي" },
 ] as const;
 
 export default function RootLayout({
