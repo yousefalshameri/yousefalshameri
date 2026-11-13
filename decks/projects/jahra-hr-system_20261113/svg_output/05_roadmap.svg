@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F5F8FA"/>
+  <g id="header" data-pptx-bounds="80 44 1120 108" text-anchor="end">
+    <text x="1200" y="78" font-size="18" font-weight="bold" fill="#1FB58A">خارطة الطريق</text>
+    <text x="1200" y="130" font-size="44" font-weight="bold" fill="#0F2533">خطة التنفيذ</text>
+    <rect x="1136" y="144" width="64" height="6" rx="3" fill="#F2C14E"/>
+  </g>
+  <rect id="timeline-rail" data-pptx-role="decoration" x="150" y="297" width="980" height="6" rx="3" fill="#D7E2E8"/>
+  <g id="phase-1" data-pptx-bounds="910 236 270 340">
+    <text x="1045" y="254" font-size="18" font-weight="bold" fill="#1FB58A" text-anchor="middle">المرحلة الأولى</text>
+    <circle cx="1045" cy="300" r="22" fill="#1FB58A" stroke="#1FB58A" stroke-width="4"/>
+    <rect x="925" y="352" width="240" height="200" rx="18" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <text x="1045" y="404" font-size="26" font-weight="bold" fill="#0F2533" text-anchor="middle">تحليل المتطلبات</text>
+    <text x="1045" y="458" font-size="20" fill="#536B7A" text-anchor="middle">جمع احتياجات الأقسام<tspan x="1045" dy="32">والموارد البشرية</tspan></text>
+  </g>
+  <g id="phase-2" data-pptx-bounds="640 236 270 340">
+    <text x="775" y="254" font-size="18" font-weight="bold" fill="#1FB58A" text-anchor="middle">المرحلة الثانية</text>
+    <circle cx="775" cy="300" r="22" fill="#FFFFFF" stroke="#1FB58A" stroke-width="4"/>
+    <rect x="655" y="352" width="240" height="200" rx="18" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <text x="775" y="404" font-size="26" font-weight="bold" fill="#0F2533" text-anchor="middle">التصميم والتطوير</text>
+    <text x="775" y="458" font-size="20" fill="#536B7A" text-anchor="middle">بناء النظام بتقنيات<tspan x="775" dy="32">ويب حديثة وآمنة</tspan></text>
+  </g>
+  <g id="phase-3" data-pptx-bounds="370 236 270 340">
+    <text x="505" y="254" font-size="18" font-weight="bold" fill="#1FB58A" text-anchor="middle">المرحلة الثالثة</text>
+    <circle cx="505" cy="300" r="22" fill="#FFFFFF" stroke="#1FB58A" stroke-width="4"/>
+    <rect x="385" y="352" width="240" height="200" rx="18" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <text x="505" y="404" font-size="26" font-weight="bold" fill="#0F2533" text-anchor="middle">التجربة التشغيلية</text>
+    <text x="505" y="458" font-size="20" fill="#536B7A" text-anchor="middle">تجربة في قسم واحد<tspan x="505" dy="32">وجمع الملاحظات</tspan></text>
+  </g>
+  <g id="phase-4" data-pptx-bounds="100 236 270 340">
+    <text x="235" y="254" font-size="18" font-weight="bold" fill="#1FB58A" text-anchor="middle">المرحلة الرابعة</text>
+    <circle cx="235" cy="300" r="22" fill="#FFFFFF" stroke="#1FB58A" stroke-width="4"/>
+    <rect x="115" y="352" width="240" height="200" rx="18" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <text x="235" y="404" font-size="26" font-weight="bold" fill="#0F2533" text-anchor="middle">الإطلاق والتدريب</text>
+    <text x="235" y="458" font-size="20" fill="#536B7A" text-anchor="middle">تعميم النظام وتدريب<tspan x="235" dy="32">الموظفين على استخدامه</tspan></text>
+  </g>
+</svg>

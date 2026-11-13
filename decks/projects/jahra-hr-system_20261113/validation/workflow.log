@@ -1,0 +1,133 @@
+
+=== 2026-11-13T22:41:20.365Z NOTE id=d70859372f10 ===
+Project initialized: profile=quick; path=/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113
+
+=== 2026-11-13T22:41:38.301Z PYTHON run=eb095f2845c7 ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/text_measure.py", "calibrate", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--role", "title:Segoe UI:44", "--role", "cover:Segoe UI:64", "--role", "h3:Segoe UI:28", "--role", "body:Segoe UI:22", "--role", "small:Segoe UI:18", "--sample", "طلب واعتماد الإجازات إلكترونياً بدون معاملات ورقية"]
+=== 2026-11-13T22:41:38.508Z END run=eb095f2845c7 elapsed_ms=206 output_lines=14 retained=0 omitted=14 ===
+
+=== 2026-11-13T22:42:43.278Z PYTHON run=106a3d6433db ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/svg_quality_checker.py", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 01_cover.svg - Passed
+  [WARN] 03_modules.svg - Passed (with warnings)
+     [WARN] <text> (x=1148, y=356; text='تسجيل البصمة ومتابعة…') exceeds <g id="module-1"> data-pptx-bounds on the horizontal axis: content (641.5, 337.3)-(1148.0, 363.7), container (655.0, 196.0)-(1180.0, 406.0), overflow horizontal 2.6%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈13.7 px per mixed char at 22px incl. headroom; ≈38 chars fit in 525 px
+     [WARN] <text> (x=593, y=356; text='تقديم الطلب واعتماده…') exceeds <g id="module-2"> data-pptx-bounds on the horizontal axis: content (80.1, 337.3)-(593.0, 363.7), container (100.0, 196.0)-(625.0, 406.0), overflow horizontal 3.8%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈13.9 px per mixed char at 22px incl. headroom; ≈37 chars fit in 525 px
+  [ERROR] 04_leave_flow.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g id="step-1"> data-pptx-bounds overlaps <g id="step-2"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="step-2"> data-pptx-bounds overlaps <g id="step-3"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="step-3"> data-pptx-bounds overlaps <g id="step-4"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+  [OK] 05_roadmap.svg - Passed
+     viewBox: 0 0 1280 720
+  [OK] 06_end.svg - Passed
+     viewBox: 0 0 1280 720
+  [SUMMARY] Check Summary
+  Total files: 6
+    [OK] Fully passed: 4 (66%)
+    [WARN] With warnings: 1 (16%)
+    [ERROR] With errors: 1 (16%)
+  Provenance categories:
+    blocking: 3          hard findings; gate also requires exit 0
+    introduced: 2        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 6 | text: 59 | images: 0 | icons: 0
+    Geometry: SVG elements 60 | native presets 0 | page-frame elements 11 | marker uses 0
+  [REPORT] JSON quality report exported: /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/validation/svg_quality_report.json
+=== 2026-11-13T22:42:44.338Z END run=106a3d6433db elapsed_ms=1060 output_lines=46 retained=27 omitted=19 ===
+
+=== 2026-11-13T22:42:48.664Z PYTHON run=3d4a33e5dc97 ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/svg_quality_checker.py", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 01_cover.svg - Passed
+  [WARN] 03_modules.svg - Passed (with warnings)
+     [WARN] <text> (x=1148, y=356; text='تسجيل البصمة ومتابعة…') exceeds <g id="module-1"> data-pptx-bounds on the horizontal axis: content (641.5, 337.3)-(1148.0, 363.7), container (655.0, 196.0)-(1180.0, 406.0), overflow horizontal 2.6%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈13.7 px per mixed char at 22px incl. headroom; ≈38 chars fit in 525 px
+     [WARN] <text> (x=593, y=356; text='تقديم الطلب واعتماده…') exceeds <g id="module-2"> data-pptx-bounds on the horizontal axis: content (80.1, 337.3)-(593.0, 363.7), container (100.0, 196.0)-(625.0, 406.0), overflow horizontal 3.8%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈13.9 px per mixed char at 22px incl. headroom; ≈37 chars fit in 525 px
+  [ERROR] 04_leave_flow.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <g id="step-1"> data-pptx-bounds overlaps <g id="step-2"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="step-2"> data-pptx-bounds overlaps <g id="step-3"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+     [ERROR] <g id="step-3"> data-pptx-bounds overlaps <g id="step-4"> data-pptx-bounds by 10.0px x 300.0px; keep ordinary direct-root module zones disjoint beyond the 1px tolerance
+  [OK] 05_roadmap.svg - Passed
+     viewBox: 0 0 1280 720
+  [OK] 06_end.svg - Passed
+     viewBox: 0 0 1280 720
+  [SUMMARY] Check Summary
+  Total files: 6
+    [OK] Fully passed: 4 (66%)
+    [WARN] With warnings: 1 (16%)
+    [ERROR] With errors: 1 (16%)
+  Provenance categories:
+    blocking: 3          hard findings; gate also requires exit 0
+    introduced: 2        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 6 | text: 59 | images: 0 | icons: 0
+    Geometry: SVG elements 60 | native presets 0 | page-frame elements 11 | marker uses 0
+  [REPORT] JSON quality report exported: /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/validation/svg_quality_report.json
+=== 2026-11-13T22:42:49.578Z END run=3d4a33e5dc97 elapsed_ms=913 output_lines=46 retained=27 omitted=19 ===
+
+=== 2026-11-13T22:43:06.453Z PYTHON run=62780df8b994 ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/svg_quality_checker.py", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 01_cover.svg - Passed
+  [ERROR] 04_leave_flow.svg - Failed
+     viewBox: 0 0 1280 720
+     [ERROR] <text> (x=505, y=410; text='مراجعة الموارد البشر…') exceeds <g id="step-3"> data-pptx-bounds on the horizontal axis: content (351.1, 389.6)-(658.9, 418.4), container (364.0, 236.0)-(634.0, 536.0), overflow horizontal 9.2%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈15.4 px per mixed char at 24px incl. headroom; ≈17 chars fit in 270 px
+  [OK] 05_roadmap.svg - Passed
+     viewBox: 0 0 1280 720
+  [OK] 06_end.svg - Passed
+     viewBox: 0 0 1280 720
+  [SUMMARY] Check Summary
+  Total files: 6
+    [OK] Fully passed: 5 (83%)
+    [WARN] With warnings: 0 (0%)
+    [ERROR] With errors: 1 (16%)
+  Provenance categories:
+    blocking: 1          hard findings; gate also requires exit 0
+    introduced: 0        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 6 | text: 59 | images: 0 | icons: 0
+    Geometry: SVG elements 57 | native presets 0 | page-frame elements 11 | marker uses 0
+  [REPORT] JSON quality report exported: /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/validation/svg_quality_report.json
+=== 2026-11-13T22:43:07.441Z END run=62780df8b994 elapsed_ms=988 output_lines=42 retained=22 omitted=20 ===
+
+=== 2026-11-13T22:43:12.403Z PYTHON run=fb07b41500e7 ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/svg_quality_checker.py", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--quick-generate", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 01_cover.svg - Passed
+  [SUMMARY] Check Summary
+  Total files: 6
+    [OK] Fully passed: 6 (100%)
+    [WARN] With warnings: 0 (0%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 0        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 6 | text: 59 | images: 0 | icons: 0
+    Geometry: SVG elements 57 | native presets 0 | page-frame elements 11 | marker uses 0
+  [REPORT] JSON quality report exported: /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/validation/svg_quality_report.json
+=== 2026-11-13T22:43:13.341Z END run=fb07b41500e7 elapsed_ms=937 output_lines=33 retained=15 omitted=18 ===
+
+=== 2026-11-13T22:43:17.378Z PYTHON run=6222f7af26bb ===
+cwd: /home/user/yousefalshameri/decks
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/b243a950e9f8-32c1cf49/ppt-master/scripts/svg_to_pptx.py", "/home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113", "--quick-generate", "--no-notes"]
+stdout:
+  [Done] Saved: /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/exports/jahra-hr-system_20261113_224318.pptx
+    [POSTFLIGHT] status=passed quality_gate=passed slides=6 warning_categories=0
+    [PPTX] /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/exports/jahra-hr-system_20261113_224318.pptx
+    [REPORT] /home/user/yousefalshameri/decks/projects/jahra-hr-system_20261113/validation/jahra-hr-system_20261113_224318.report.json
+=== 2026-11-13T22:43:18.594Z END run=6222f7af26bb elapsed_ms=1216 output_lines=38 retained=4 omitted=34 ===

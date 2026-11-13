@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F5F8FA"/>
+  <g id="header" data-pptx-bounds="80 44 1120 108" text-anchor="end">
+    <text x="1200" y="78" font-size="18" font-weight="bold" fill="#1FB58A">ليش نحتاج نظام جديد؟</text>
+    <text x="1200" y="130" font-size="44" font-weight="bold" fill="#0F2533">التحدي الحالي</text>
+    <rect x="1136" y="144" width="64" height="6" rx="3" fill="#F2C14E"/>
+  </g>
+  <g id="challenge-1" data-pptx-bounds="840 200 340 300">
+    <rect x="840" y="200" width="340" height="300" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <circle cx="1124" cy="256" r="28" fill="#E3F5EE"/>
+    <text x="1124" y="266" font-size="26" font-weight="bold" fill="#1FB58A" text-anchor="middle">١</text>
+    <text x="1148" y="346" font-size="28" font-weight="bold" fill="#0F2533" text-anchor="end">معاملات ورقية</text>
+    <text x="1148" y="400" font-size="22" fill="#536B7A" text-anchor="end">طلبات الإجازة والحضور تمر<tspan x="1148" dy="34">على الورق والتوقيع اليدوي</tspan></text>
+  </g>
+  <g id="challenge-2" data-pptx-bounds="470 200 340 300">
+    <rect x="470" y="200" width="340" height="300" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <circle cx="754" cy="256" r="28" fill="#E3F5EE"/>
+    <text x="754" y="266" font-size="26" font-weight="bold" fill="#1FB58A" text-anchor="middle">٢</text>
+    <text x="778" y="346" font-size="28" font-weight="bold" fill="#0F2533" text-anchor="end">بيانات متفرقة</text>
+    <text x="778" y="400" font-size="22" fill="#536B7A" text-anchor="end">كل قسم يحتفظ بسجلاته<tspan x="778" dy="34">بدون مصدر موحد للبيانات</tspan></text>
+  </g>
+  <g id="challenge-3" data-pptx-bounds="100 200 340 300">
+    <rect x="100" y="200" width="340" height="300" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <circle cx="384" cy="256" r="28" fill="#E3F5EE"/>
+    <text x="384" y="266" font-size="26" font-weight="bold" fill="#1FB58A" text-anchor="middle">٣</text>
+    <text x="408" y="346" font-size="28" font-weight="bold" fill="#0F2533" text-anchor="end">بطء الاعتماد</text>
+    <text x="408" y="400" font-size="22" fill="#536B7A" text-anchor="end">متابعة الطلبات صعبة<tspan x="408" dy="34">والتقارير تاخذ وقت وجهد</tspan></text>
+  </g>
+  <g id="takeaway" data-pptx-bounds="100 548 1080 96">
+    <rect x="100" y="548" width="1080" height="96" rx="20" fill="#0B3B52"/>
+    <rect x="1140" y="572" width="8" height="48" rx="4" fill="#F2C14E"/>
+    <text x="1120" y="608" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="end">الحل: منصة رقمية موحدة لكل موظفي المنطقة</text>
+  </g>
+</svg>

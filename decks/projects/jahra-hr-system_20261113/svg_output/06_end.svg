@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="ending" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B3B52"/>
+  <circle id="deco-ring" data-pptx-role="decoration" cx="1130" cy="120" r="240" fill="none" stroke="#1FB58A" stroke-width="2" stroke-opacity="0.35"/>
+  <circle id="deco-disc" data-pptx-role="decoration" cx="1130" cy="120" r="150" fill="#1FB58A" fill-opacity="0.12"/>
+  <g id="closing" data-pptx-bounds="140 250 1000 260" text-anchor="middle">
+    <text x="640" y="330" font-size="72" font-weight="bold" fill="#FFFFFF">شكراً لكم</text>
+    <rect x="608" y="362" width="64" height="6" rx="3" fill="#F2C14E"/>
+    <text x="640" y="430" font-size="30" fill="#BFD8E3">نحو إدارة رقمية أذكى لموظفي</text>
+    <text x="640" y="476" font-size="30" font-weight="bold" fill="#1FB58A">منطقة الجهراء الصحية</text>
+  </g>
+  <g id="contact" data-pptx-bounds="340 600 600 50" text-anchor="middle">
+    <text x="640" y="632" font-size="18" fill="#BFD8E3">للاستفسار: إدارة تقنية المعلومات</text>
+  </g>
+</svg>

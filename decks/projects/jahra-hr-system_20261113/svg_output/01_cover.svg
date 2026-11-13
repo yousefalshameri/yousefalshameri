@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="cover" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#0B3B52"/>
+  <circle id="deco-ring" data-pptx-role="decoration" cx="150" cy="600" r="260" fill="none" stroke="#1FB58A" stroke-width="2" stroke-opacity="0.35"/>
+  <circle id="deco-disc" data-pptx-role="decoration" cx="150" cy="600" r="170" fill="#1FB58A" fill-opacity="0.12"/>
+  <g id="mark" data-pptx-bounds="1072 150 128 128">
+    <rect x="1072" y="150" width="128" height="128" rx="30" fill="#1FB58A"/>
+    <path d="M1121 176H1151V199H1174V229H1151V252H1121V229H1098V199H1121Z" fill="#FFFFFF"/>
+  </g>
+  <g id="cover-title" data-pptx-bounds="380 300 820 220" text-anchor="end">
+    <text x="1200" y="352" font-size="22" font-weight="bold" fill="#F2C14E">عرض تعريفي بالمشروع</text>
+    <text x="1200" y="436" font-size="64" font-weight="bold" fill="#FFFFFF">نظام إدارة الموظفين</text>
+    <text x="1200" y="500" font-size="32" fill="#BFD8E3">منطقة الجهراء الصحية</text>
+  </g>
+  <g id="cover-foot" data-pptx-bounds="700 600 500 60" text-anchor="end">
+    <rect x="1136" y="612" width="64" height="6" rx="3" fill="#F2C14E"/>
+    <text x="1200" y="650" font-size="18" fill="#BFD8E3">إدارة تقنية المعلومات</text>
+  </g>
+</svg>

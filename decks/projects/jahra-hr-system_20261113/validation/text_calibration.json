@@ -1,0 +1,82 @@
+{
+  "roles": {
+    "body": {
+      "family": "Segoe UI",
+      "size": 22.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 4.3,
+      "latin_chars_per_100px": 9.7,
+      "caps_chars_per_100px": 8.2,
+      "digits_chars_per_100px": 8.0,
+      "citation_chars_per_100px": 9.3,
+      "script_clusters_per_100px": {
+        "Arabic": 7.8
+      },
+      "longest_planned_line": null
+    },
+    "title": {
+      "family": "Segoe UI",
+      "size": 44.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 2.1,
+      "latin_chars_per_100px": 4.8,
+      "caps_chars_per_100px": 4.1,
+      "digits_chars_per_100px": 4.0,
+      "citation_chars_per_100px": 4.6,
+      "script_clusters_per_100px": {
+        "Arabic": 3.9
+      },
+      "longest_planned_line": null
+    },
+    "cover": {
+      "family": "Segoe UI",
+      "size": 64.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 1.5,
+      "latin_chars_per_100px": 3.3,
+      "caps_chars_per_100px": 2.8,
+      "digits_chars_per_100px": 2.7,
+      "citation_chars_per_100px": 3.2,
+      "script_clusters_per_100px": {
+        "Arabic": 2.7
+      },
+      "longest_planned_line": null
+    },
+    "h3": {
+      "family": "Segoe UI",
+      "size": 28.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 3.4,
+      "latin_chars_per_100px": 7.6,
+      "caps_chars_per_100px": 6.4,
+      "digits_chars_per_100px": 6.2,
+      "citation_chars_per_100px": 7.3,
+      "script_clusters_per_100px": {
+        "Arabic": 6.1
+      },
+      "longest_planned_line": null
+    },
+    "small": {
+      "family": "Segoe UI",
+      "size": 18.0,
+      "weight": "normal",
+      "cjk_chars_per_100px": 5.2,
+      "latin_chars_per_100px": 11.8,
+      "caps_chars_per_100px": 10.0,
+      "digits_chars_per_100px": 9.7,
+      "citation_chars_per_100px": 11.3,
+      "script_clusters_per_100px": {
+        "Arabic": 9.5
+      },
+      "longest_planned_line": null
+    }
+  },
+  "script_samples": {
+    "Arabic": "طلبواعتمادالإجازاتإلكترونياًبدونمعاملاتور"
+  },
+  "source": "--role",
+  "generated_at": "2026-11-13T22:41:38Z",
+  "notes": [
+    "every role is measured at normal weight; recalibrate a role realized as bold deck-wide with --role NAME:FAMILY:SIZE:bold: bold widens Latin and digits about 7%, while the bundled advance table gives CJK one width for both weights"
+  ]
+}

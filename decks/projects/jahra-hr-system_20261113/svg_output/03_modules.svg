@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F5F8FA"/>
+  <g id="header" data-pptx-bounds="80 44 1120 108" text-anchor="end">
+    <text x="1200" y="78" font-size="18" font-weight="bold" fill="#1FB58A">وش يغطي النظام؟</text>
+    <text x="1200" y="130" font-size="44" font-weight="bold" fill="#0F2533">المحاور الأربعة للنظام</text>
+    <rect x="1136" y="144" width="64" height="6" rx="3" fill="#F2C14E"/>
+  </g>
+  <g id="module-1" data-pptx-bounds="655 196 525 210">
+    <rect x="655" y="196" width="525" height="210" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <rect x="1068" y="228" width="80" height="80" rx="20" fill="#E3F5EE"/>
+    <g fill="none" stroke="#1FB58A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><circle cx="1108" cy="268" r="20"/><path d="M1108 257V268L1117 274"/></g>
+    <text x="1044" y="280" font-size="30" font-weight="bold" fill="#0F2533" text-anchor="end">الحضور والانصراف</text>
+    <text x="1148" y="346" font-size="22" fill="#536B7A" text-anchor="end">تسجيل البصمة ومتابعة<tspan x="1148" dy="34">التأخير والغياب لحظياً</tspan></text>
+  </g>
+  <g id="module-2" data-pptx-bounds="100 196 525 210">
+    <rect x="100" y="196" width="525" height="210" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <rect x="513" y="228" width="80" height="80" rx="20" fill="#E3F5EE"/>
+    <g fill="none" stroke="#1FB58A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><rect x="533" y="252" width="40" height="36" rx="6"/><path d="M533 264H573M543 244V256M563 244V256"/></g>
+    <text x="489" y="280" font-size="30" font-weight="bold" fill="#0F2533" text-anchor="end">الإجازات</text>
+    <text x="593" y="346" font-size="22" fill="#536B7A" text-anchor="end">تقديم الطلب واعتماده إلكترونياً<tspan x="593" dy="34">مع رصيد محدّث دائماً</tspan></text>
+  </g>
+  <g id="module-3" data-pptx-bounds="655 432 525 210">
+    <rect x="655" y="432" width="525" height="210" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <rect x="1068" y="464" width="80" height="80" rx="20" fill="#E3F5EE"/>
+    <g fill="none" stroke="#1FB58A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M1090 496H1126M1118 488L1126 496L1118 504M1126 514H1090M1098 506L1090 514L1098 522"/></g>
+    <text x="1044" y="516" font-size="30" font-weight="bold" fill="#0F2533" text-anchor="end">المناوبات</text>
+    <text x="1148" y="582" font-size="22" fill="#536B7A" text-anchor="end">جدولة مناوبات الأقسام<tspan x="1148" dy="34">وتبديلها بسهولة</tspan></text>
+  </g>
+  <g id="module-4" data-pptx-bounds="100 432 525 210">
+    <rect x="100" y="432" width="525" height="210" rx="20" fill="#FFFFFF" stroke="#D7E2E8" stroke-width="1.5"/>
+    <rect x="513" y="464" width="80" height="80" rx="20" fill="#E3F5EE"/>
+    <g fill="none" stroke="#1FB58A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M533 524H573M541 516V506M553 516V488M565 516V498"/></g>
+    <text x="489" y="516" font-size="30" font-weight="bold" fill="#0F2533" text-anchor="end">التقارير</text>
+    <text x="593" y="582" font-size="22" fill="#536B7A" text-anchor="end">لوحات وتقارير جاهزة<tspan x="593" dy="34">للإدارة بضغطة زر</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="ar" data-pptx-page-role="content" font-family="Segoe UI">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F5F8FA"/>
+  <g id="header" data-pptx-bounds="80 44 1120 108" text-anchor="end">
+    <text x="1200" y="78" font-size="18" font-weight="bold" fill="#1FB58A">مثال عملي</text>
+    <text x="1200" y="130" font-size="44" font-weight="bold" fill="#0F2533">رحلة طلب الإجازة</text>
+    <rect x="1136" y="144" width="64" height="6" rx="3" fill="#F2C14E"/>
+  </g>
+  <g id="step-1" data-pptx-bounds="904 236 270 300">
+    <circle cx="1045" cy="300" r="56" fill="#0B3B52"/>
+    <text x="1045" y="316" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">١</text>
+    <polygon points="920,286 920,314 904,300" fill="#F2C14E"/>
+    <text x="1045" y="410" font-size="24" font-weight="bold" fill="#0F2533" text-anchor="middle">تقديم الطلب</text>
+    <text x="1045" y="452" font-size="20" fill="#536B7A" text-anchor="middle">من الجوال أو الكمبيوتر</text>
+  </g>
+  <g id="step-2" data-pptx-bounds="634 236 270 300">
+    <circle cx="775" cy="300" r="56" fill="#1FB58A"/>
+    <text x="775" y="316" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">٢</text>
+    <polygon points="650,286 650,314 634,300" fill="#F2C14E"/>
+    <text x="775" y="410" font-size="24" font-weight="bold" fill="#0F2533" text-anchor="middle">اعتماد رئيس القسم</text>
+    <text x="775" y="452" font-size="20" fill="#536B7A" text-anchor="middle">إشعار فوري للمراجعة</text>
+  </g>
+  <g id="step-3" data-pptx-bounds="364 236 270 300">
+    <circle cx="505" cy="300" r="56" fill="#1FB58A"/>
+    <text x="505" y="316" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">٣</text>
+    <polygon points="380,286 380,314 364,300" fill="#F2C14E"/>
+    <text x="505" y="410" font-size="24" font-weight="bold" fill="#0F2533" text-anchor="middle">الموارد البشرية</text>
+    <text x="505" y="452" font-size="20" fill="#536B7A" text-anchor="middle">تدقيق الرصيد والتوثيق</text>
+  </g>
+  <g id="step-4" data-pptx-bounds="94 236 270 300">
+    <circle cx="235" cy="300" r="56" fill="#0B3B52"/>
+    <text x="235" y="316" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">٤</text>
+    
+    <text x="235" y="410" font-size="24" font-weight="bold" fill="#0F2533" text-anchor="middle">إشعار الموظف</text>
+    <text x="235" y="452" font-size="20" fill="#536B7A" text-anchor="middle">بالقرار وتحديث الرصيد</text>
+  </g>
+  <g id="process-note" data-pptx-bounds="100 560 1080 84">
+    <rect x="100" y="560" width="1080" height="84" rx="20" fill="#E3F5EE"/>
+    <text x="640" y="612" font-size="26" font-weight="bold" fill="#0B3B52" text-anchor="middle">كل خطوة موثّقة وقابلة للتتبع بدون أي ورقة</text>
+  </g>
+</svg>
