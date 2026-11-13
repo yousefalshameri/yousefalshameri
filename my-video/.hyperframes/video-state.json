@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "historyId": "f3653e95-093a-4b21-8680-e7dae38d9768",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/26/268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a"
+    },
+    "CLAUDE.md": {
+      "hash": "268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/26/268ff46777938da818baa92a718571785e9acf2cef2d3ffbacbb93483dcba37a"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "bb26a8f483c4b8ed34f95e1a3fd8bd97e06440351dcb1c24c71d2abdbb1a1d15",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/bb/bb26a8f483c4b8ed34f95e1a3fd8bd97e06440351dcb1c24c71d2abdbb1a1d15"
+    },
+    "meta.json": {
+      "hash": "65c32e8f480faf858c914f01c941b15657d344fa33ca0e5dbad31571b73f0b58",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/65/65c32e8f480faf858c914f01c941b15657d344fa33ca0e5dbad31571b73f0b58"
+    },
+    "package.json": {
+      "hash": "e399d4f1cd26a7af787722aa2fa71bab67d81562ba234e4df9253f3d66aafdd9",
+      "content": "/root/.cache/hyperframes/history/f3653e95-093a-4b21-8680-e7dae38d9768/blobs/e3/e399d4f1cd26a7af787722aa2fa71bab67d81562ba234e4df9253f3d66aafdd9"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "1ba0ead2-bed7-4c02-9ec0-8ed43ca9efa1",
+      "completedAt": 1794608961517,
+      "output": "/home/user/yousefalshameri/my-video/out.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}
