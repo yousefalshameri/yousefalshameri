@@ -1,0 +1,27 @@
+{
+  "name": "yousefalshameri",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @yousefalshameri - 👀 I’m interested in ... - 🌱 I’m currently learning ... - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ... - 😄 Pronouns: ... - ⚡ Fun fact: ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefalshameri/yousefalshameri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousefalshameri/yousefalshameri/issues"
+  },
+  "homepage": "https://github.com/yousefalshameri/yousefalshameri#readme",
+  "dependencies": {
+    "@clayzo/animation": "^0.3.21",
+    "@clayzo/webgl-player": "^0.3.21"
+  },
+  "devDependencies": {
+    "clayzo": "^0.3.21"
+  }
+}

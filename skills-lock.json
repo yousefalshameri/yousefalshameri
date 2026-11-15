@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "clayzo-animation-authoring": {
+      "source": "clayzo/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clayzo-animation-authoring/SKILL.md",
+      "computedHash": "706dd06b00cbbdfb4d86b9d006c46b7a27afb7472f161c917132a192eaae4c2b"
+    },
+    "clayzo-animation-shipping": {
+      "source": "clayzo/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clayzo-animation-shipping/SKILL.md",
+      "computedHash": "2a1cb9f2c13e5ddddba6db8b5ccd231658a0a4a68955ed4cceb6fdee69989f0c"
+    }
+  }
+}
