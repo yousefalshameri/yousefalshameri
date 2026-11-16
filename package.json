@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "jahra:build": "tsx animations/jahra-intro/author.ts",
-    "jahra:preview": "esbuild animations/jahra-intro/preview/main.ts --bundle --format=iife --loader:.json=json --outfile=animations/jahra-intro/preview/bundle.js --servedir=animations/jahra-intro/preview"
+    "jahra:preview": "esbuild animations/jahra-intro/preview/main.ts --bundle --format=iife --loader:.json=json --outfile=animations/jahra-intro/preview/bundle.js --servedir=animations/jahra-intro/preview",
+    "pulse:build": "tsx animations/jahra-pulse/author.ts",
+    "pulse:preview": "esbuild animations/jahra-pulse/preview/main.ts --bundle --format=iife --loader:.json=json --outfile=animations/jahra-pulse/preview/bundle.js --servedir=animations/jahra-pulse/preview"
   },
   "repository": {
     "type": "git",
