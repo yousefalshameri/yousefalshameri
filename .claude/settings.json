@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__reply",
+      "mcp__Gmail__forward",
+      "mcp__Gmail__trash_message",
+      "mcp__Gmail__trash_thread",
+      "mcp__Google_Calendar__delete_event"
+    ]
+  }
+}
