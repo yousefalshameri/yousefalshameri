@@ -1,4 +1,6 @@
-data/*
-!data/README.md
-drafts/*
-!drafts/.gitkeep
+systems/*/records/*
+!systems/*/records/README.md
+systems/*/data/*
+!systems/*/data/README.md
+systems/*/drafts/*
+!systems/*/drafts/.gitkeep
