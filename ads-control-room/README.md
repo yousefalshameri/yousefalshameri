@@ -11,9 +11,13 @@
 | `.claude/agents/` | ستة وكلاء: المخطّط، الكاتب، الناشر، ساحب الأرقام، كاشف الخسران، كاتب التقرير |
 | `web/` | لوحة التحكم (Next.js) |
 
+## القاعدة
+
+مشروع Supabase: `ads-control-room` (المعرّف `svttoiwhoefbwyltonnd`، منطقة ap-south-1). الجداول مركّبة عليه وفاضية. الوكلاء يستخدمون هالمعرّف مع `execute_sql`.
+
 ## التشغيل
 
-1. شغّل `0001_init.sql` في SQL Editor حق مشروع Supabase.
+1. الجداول مركّبة. لمشروع ثاني شغّل `0001_init.sql` في SQL Editor.
 2. في `web/`: انسخ `.env.example` إلى `.env.local` وعبّي `DATABASE_URL` و `DASHBOARD_PASSWORD`.
 3. `npm install` ثم `npm run dev`.
 4. افتح هالمجلد في Claude Code عشان يتعرّف على الوكلاء، واطلب: «سوّ حملة جديدة لـ...».
